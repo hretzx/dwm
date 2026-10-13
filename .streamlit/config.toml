@@ -1,0 +1,14 @@
+# Global Streamlit theme: green and white only.
+[theme]
+base = "light"
+primaryColor = "#2E7D32"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#E8F5E9"
+textColor = "#333333"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
